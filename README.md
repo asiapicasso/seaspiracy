@@ -10,7 +10,7 @@ Seaspiracy est un documentaire sur les impacts d’environnement venant de la p�
 
 Ali, n’étant pas satisfait des informations qu'il trouve en premier lieu concernant la “pêche responsable” et ses sujets jumeaux, embarque sa caméra à la recherche de la face cachée de l’industrie de la pêche.
 
-Sur le site du film [https://www.seaspiracy.org/](https://www.seaspiracy.org/facts), nous y trouvons toute sorte de données avec leur référence.
+Sur le site du film [https://www.seaspiracy.org/](https://www.seaspiracy.org), nous y trouvons toute sorte de données avec leur référence.
 
 
 ## Description :
